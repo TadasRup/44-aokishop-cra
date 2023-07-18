@@ -1,0 +1,52 @@
+.header {
+    grid-area: header;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 3rem;
+}
+
+.left {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    width: 40rem;
+    height: 30px;
+}
+.logo {
+    width: 150px;
+}
+
+.basiclogo {
+    width: 40px;
+    
+}
+
+.aokis {
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.arrow {
+    margin-bottom: 20px;
+}
+
+.logo2{
+    width: 25px;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+    padding-left: 26rem;
+}
+.active {
+    text-decoration: none;
+    color: #3a3a3a;
+}
+.right {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
