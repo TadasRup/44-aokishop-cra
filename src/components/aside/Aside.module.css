@@ -13,8 +13,8 @@
     
 }
 
-.logoname {
-    
+.marks{
+    padding-bottom: 8px;
 }
 
 .iconlogo{
@@ -29,7 +29,7 @@
     text-decoration: none;
     color: #79797a;
     padding-bottom:  25px;
-    line-height: 30px;
+    line-height: 51px;
     vertical-align: text-bottom;
 }
 

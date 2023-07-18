@@ -26,7 +26,7 @@ export function Aside() {
                 <div className={style.logoname}>
                     <CiShop className={style.iconlogo} size='1.5rem' color='#aaa' />
                     <a className={style.active} href="/">Shop</a>
-                    <RiArrowDownSLine size='1.5rem' color='#aaa' />
+                    <RiArrowDownSLine className={style.marks} size='1.5rem' color='#aaa' />
                 </div>
                 <div className={style.logoname}>
                     <BsBag className={style.iconlogo} size='1.5rem' color='#aaa' /> 
@@ -46,7 +46,7 @@ export function Aside() {
                 <div className={style.logoname}>
                     <GiCubes className={style.iconlogo} size='1.5rem' color='#aaa' /> 
                     <a className={style.active} href="/">Application</a>
-                    <RiArrowDownSLine size='1.5rem' color='#aaa' />
+                    <RiArrowDownSLine className={style.marks} size='1.5rem' color='#aaa' />
                 </div>
                 <div className={style.logoname}>
                     <FiSettings className={style.iconlogo} size='1.5rem' color='#aaa' /> 
