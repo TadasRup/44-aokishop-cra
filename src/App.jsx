@@ -9,6 +9,7 @@ function App() {
     <div className="App">
       <Header />
       <Aside />
+      <Main />
       <Helmet bodyAttributes={{style: 'background-color : #f5f5fb'}}/>
     </div>
   );
