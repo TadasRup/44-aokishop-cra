@@ -1,16 +1,10 @@
-.aside {
-   
-    
-}
 
 .nav{
     height: 30%;
     z-index:1;
     margin: 10px;
     padding-top: 10px;
-    display: inline;
-    
-    
+    display: inline;  
 }
 
 .marks{
@@ -31,8 +25,4 @@
     padding-bottom:  25px;
     line-height: 51px;
     vertical-align: text-bottom;
-}
-
-.live{ 
-
 }
