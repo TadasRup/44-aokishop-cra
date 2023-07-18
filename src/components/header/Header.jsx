@@ -11,7 +11,7 @@ export function Header() {
             <div className={style.left}>
                 <img className={style.logo} src={logo} alt='Logo' />
                 <h3 className={style.aokis} href="/">Aoki's Shop</h3>
-                <RiArrowDownSLine className='arrow' size='1.5rem' color='#aaa' />
+                <RiArrowDownSLine size='1.5rem' color='#aaa' />
                 <img className={style.basiclogo} src={basiclogo} alt='Logo' />
             </div>
             <nav className={style.nav}>

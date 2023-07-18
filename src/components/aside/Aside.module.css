@@ -1,3 +1,38 @@
 .aside {
-    flex-direction: row;
+   
+    
+}
+
+.nav{
+    height: 30%;
+    z-index:1;
+    margin: 10px;
+    padding-top: 10px;
+    display: inline;
+    
+    
+}
+
+.logoname {
+    
+}
+
+.iconlogo{
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 35px;
+    padding: 8px;
+}
+
+.active {
+    text-decoration: none;
+    color: #79797a;
+    padding-bottom:  25px;
+    line-height: 30px;
+    vertical-align: text-bottom;
+}
+
+.live{ 
+
 }
