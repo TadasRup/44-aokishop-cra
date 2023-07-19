@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/44-aokishop-cra/static/css/main.72547c2c.css",
-    "main.js": "/44-aokishop-cra/static/js/main.4700dca0.js",
+    "main.css": "/44-aokishop-cra/static/css/main.0faf6fff.css",
+    "main.js": "/44-aokishop-cra/static/js/main.5e2627ae.js",
     "static/media/basic2.png": "/44-aokishop-cra/static/media/basic2.3ead6cb86e1f8b6a6c53.png",
     "static/media/3135715.png": "/44-aokishop-cra/static/media/3135715.5faf09a7795d28bf5a2b.png",
     "static/media/column1image.png": "/44-aokishop-cra/static/media/column1image.d840f988a9e1feb91fae.png",
     "static/media/column5image.png": "/44-aokishop-cra/static/media/column5image.fa880a902cee5d8f9272.png",
     "static/media/logo.png": "/44-aokishop-cra/static/media/logo.d6467f796116257cf3e6.png",
     "index.html": "/44-aokishop-cra/index.html",
-    "main.72547c2c.css.map": "/44-aokishop-cra/static/css/main.72547c2c.css.map",
-    "main.4700dca0.js.map": "/44-aokishop-cra/static/js/main.4700dca0.js.map"
+    "main.0faf6fff.css.map": "/44-aokishop-cra/static/css/main.0faf6fff.css.map",
+    "main.5e2627ae.js.map": "/44-aokishop-cra/static/js/main.5e2627ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.72547c2c.css",
-    "static/js/main.4700dca0.js"
+    "static/css/main.0faf6fff.css",
+    "static/js/main.5e2627ae.js"
   ]
 }
