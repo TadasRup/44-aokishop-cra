@@ -13,7 +13,7 @@ export function Main() {
                 </h6>
         <div className={style.main2}>
                 <h4 className={style.main2text1}>
-                     1.certification
+                     1.Certification
                 </h4>
                 <h6 className={style.main2text2}>
                     Upload qualification information
