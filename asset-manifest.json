@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/44-aokishop-cra/static/css/main.71855ce2.css",
+    "main.js": "/44-aokishop-cra/static/js/main.af489e84.js",
+    "static/media/basic2.png": "/44-aokishop-cra/static/media/basic2.3ead6cb86e1f8b6a6c53.png",
+    "static/media/3135715.png": "/44-aokishop-cra/static/media/3135715.5faf09a7795d28bf5a2b.png",
+    "static/media/column1image.png": "/44-aokishop-cra/static/media/column1image.d840f988a9e1feb91fae.png",
+    "static/media/logo.png": "/44-aokishop-cra/static/media/logo.d6467f796116257cf3e6.png",
+    "index.html": "/44-aokishop-cra/index.html",
+    "main.71855ce2.css.map": "/44-aokishop-cra/static/css/main.71855ce2.css.map",
+    "main.af489e84.js.map": "/44-aokishop-cra/static/js/main.af489e84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71855ce2.css",
+    "static/js/main.af489e84.js"
+  ]
+}
