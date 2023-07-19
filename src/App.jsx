@@ -4,6 +4,8 @@ import { Hero } from './components/hero/Hero';
 import { Main } from './components/main/Main';
 import './App.css';
 import Helmet from 'react-helmet';
+import React from 'react';
+import Button from './components/hero/Button';
 
 function App() {
   return (
@@ -16,6 +18,7 @@ function App() {
     </div>
   );
 }
+
 
 
 

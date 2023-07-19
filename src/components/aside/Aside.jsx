@@ -11,7 +11,8 @@ import { GiCubes } from 'react-icons/gi';
 import { FiSettings } from 'react-icons/fi';
 
 
-export function Aside() {
+
+export function Aside () {
     return (
         <aside className={style.aside}>
             <nav className={style.nav}>

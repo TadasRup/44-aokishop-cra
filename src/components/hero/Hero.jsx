@@ -1,4 +1,5 @@
 import style from './Hero.module.css';
+import Button from './Button';
 
 export function Hero() {
     return (
@@ -12,14 +13,14 @@ export function Hero() {
                 </h6>
         <div className={style.hero2}>
                 <h4 className={style.hero2text1}>
-                     1.Certification
+                     1.Certification <Button />
                 </h4>
                 <h6 className={style.hero2text2}>
                     Upload qualification information
                 </h6>
         <div className={style.hero3}>
                 <h4 className={style.hero3text1}>
-                    2.Upload a product
+                    2.Upload a product <Button />
                 </h4>
                 <h6 className={style.hero3text2}>
                     Fill in product information
@@ -27,7 +28,7 @@ export function Hero() {
             </div>
         <div className={style.hero4}>
                 <h4 className={style.hero4text1}>
-                    3.Open for sale
+                    3.Open for sale <Button />
                 </h4>
                 <h6 className={style.hero4text2}>
                     Choose to open any sales channel
