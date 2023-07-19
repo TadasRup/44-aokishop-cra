@@ -20,25 +20,27 @@ main {
 
 .paytxt{
     position: absolute;
-    top: 6.4rem; left: 48px;
+    top: 7.3rem; left: 58px;
     line-height: 15px;
-    font-size: 14px;
+    font-size: 13px;
 }
 
 .maincl1 {
     background-color: #ffe9ed;
     border-radius: 14px;
-    width: 17rem;
-    height: 8rem;
+    width: 16rem;
+    height: 9.8rem;
     margin-left: 35px;
-    margin-top: 35px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 33px;
+    border-style: outset;
+    box-shadow: rgb(226, 154, 231) 0px 8px 9px 0px;
+    //font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .cl1img{
-    height: 65px;
-    margin-left: 11.2rem;
-    margin-top: 16px;
+    height: 70px;
+    margin-left: 10rem;
+    margin-top: 29px;
     margin-bottom: auto;
 }
 
@@ -47,18 +49,20 @@ main {
 
 .paytxt2{
     position: absolute;
-    top: 16.7rem; left: 50px;
+    top: 19.5rem; left: 59px;
     line-height: 0.9rem;
-    font-size: 15px;
+    font-size: 14px;
 }
 
 .maincl2 {
     background-color: #e3e3e7;
     border-radius: 14px;
-    width: 17rem;
-    height: 8rem;
+    width: 16rem;
+    height: 9rem;
+    border-style: outset;
     margin-left: 35px;
     margin-top: 35px;
+    box-shadow: rgb(121, 167, 195) 0px 8px 9px 0px;
     //font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -66,25 +70,25 @@ main {
 
 .paytxt3{
     position: absolute;
-    top: 6.3rem; left:23rem;
+    top: 8.6rem; left:20.9rem;
     line-height: 13px;
-    font-size: 15px;
+    font-size: 14px;
 }
 
 .maincl3{
     background-color: #e4eeff;
     border-radius: 14px;
-    width: 17rem;
-    height: 8rem;
-    margin-left: 22rem;
-    margin-top: -18.2rem;
+    width: 16rem;
+    height: 9rem;
+    margin-left: 19.8rem;
+    margin-top: -20.1rem;
     //font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .cl2img{
-    height: 67px;
-    margin-left: 11.5rem;
-    margin-top: 13px;
+    height: 70px;
+    margin-left: 10.4rem;
+    margin-top: 24px;
     margin-bottom: auto;
 }
 
@@ -93,7 +97,7 @@ main {
 
 .paytxt4{
     position: absolute;
-    top: 16.6rem; left: 370px;
+    top: 18.6rem; left: 335px;
     line-height: 0.9rem;
     font-size: 15px;
 }
@@ -101,10 +105,10 @@ main {
 .maincl4 {
     background-color: #e3e3e7;
     border-radius: 14px;
-    width: 17rem;
-    height: 8rem;
-    margin-left:353px;
-    margin-top: 34px;
+    width: 16rem;
+    height: 9rem;
+    margin-left:320px;
+    margin-top: 18px;
     //font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -113,25 +117,25 @@ main {
 
 .paytxt5{
     position: absolute;
-    top: 6.3rem; left:43rem;
+    top: 8.5rem; left:38.8rem;
     line-height: 13px;
-    font-size: 15px;
+    font-size: 14px;
 }
 
 .maincl5{
     background-color: #eee5ff;
     border-radius: 14px;
-    width: 17rem;
-    height: 8rem;
-    margin-left: 41.8rem;
-    margin-top: -18.1rem;
+    width: 16rem;
+    height: 9rem;
+    margin-left: 37.4rem;
+    margin-top: -19.1rem;
     //font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .cl3img{
-    height: 67px;
-    margin-left: 11.5rem;
-    margin-top: 13px;
+    height: 70px;
+    margin-left: 10.7rem;
+    margin-top: 21px;
     margin-bottom: auto;
 }
 
@@ -139,17 +143,64 @@ main {
 
 .paytxt6{
     position: absolute;
-    top: 16.6rem; left: 690px;
+    top: 17.27rem; left: 620px;
     line-height: 0.9rem;
     font-size: 15px;
+    margin-top: 20px;
 }
 
 .maincl6{
     background-color: #e3e3e7;
     border-radius: 14px;
-    width: 17rem;
-    height: 8rem;
-    margin-left:670px;
-    margin-top: 34px;
+    width: 16rem;
+    height: 9rem;
+    margin-left:600px;
+    margin-top: 18px;
+    //font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*COLUMN NUMBER 7*/
+
+.paytxt11{
+    position: absolute;
+    top: 7.2rem; left:56rem;
+    line-height: 13px;
+    font-size: 14px;
+}
+
+.maincl7{
+    background-color: #d7f0ed;
+    border-radius: 14px;
+    width: 16rem;
+    height: 9rem;
+    margin-left: 55rem;
+    margin-top: -19.1rem;
+    //font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.cl5img{
+    height: 70px;
+    margin-left: 10.2rem;
+    margin-top: 21px;
+    margin-bottom: auto;
+}
+
+/*COLUMN NUMBER 8*/
+
+.paytxt12{
+    position: absolute;
+    top: 17.1rem; left: 900px;
+    line-height: 0.9rem;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+.maincl8{
+    background-color: #e3e3e7;
+    border-radius: 14px;
+    width: 16rem;
+    height: 9rem;
+    margin-left:880px;
+    margin-top: 18px;
     //font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }

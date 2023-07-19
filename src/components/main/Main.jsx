@@ -2,6 +2,7 @@ import style from './Main.module.css';
 import cl1img from '../../img/column1image.png';
 import cl2img from '../../img/column2image.png';
 import cl3img from '../../img/column3image.png';
+import cl5img from '../../img/column5image.png';
 
 
 export function Main () {
@@ -50,10 +51,30 @@ export function Main () {
             </div>
             <div className={style.maincl6}>
             <div className={style.paytxt6}>
+                <h3></h3>
+                <h1></h1>
+                <h5></h5>
+            </div>
+            </div>
+            <div className={style.maincl7}>
+                <img className={style.cl5img} src={cl5img} alt='Logo' />
+            <div className={style.paytxt11}>
+                <h3>Pending orders</h3>
+                <h1>480</h1>
+                <h5>Yesterday 470</h5>
+                </div>
+            </div>
+            <div className={style.maincl8}>
+            <div className={style.paytxt12}>
                 <h3>Cumulative attention</h3>
                 <h1>135,743</h1>
-                <h5>Yesterday 130439</h5>
+                <h5>Yesterday 130493</h5>
             </div>
+            </div>
+            <div className={style.paytxt6}>
+                <h3>Number of order</h3>
+                <h1>5,249</h1>
+                <h5>Yesterday 4680</h5>
             </div>
         </main>
     )
