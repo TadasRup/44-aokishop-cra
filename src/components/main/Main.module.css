@@ -20,26 +20,26 @@ main {
 
 .paytxt{
     position: absolute;
-    top: 7.3rem; left: 58px;
+    top: 7rem; left: 58px;
     line-height: 15px;
-    font-size: 13px;
+    font-size: 14px;
 }
 
 .maincl1 {
     background-color: #ffe9ed;
     border-radius: 14px;
     width: 16rem;
-    height: 9.8rem;
+    height: 9rem;
     margin-left: 35px;
     margin-top: 33px;
-    border-style: outset;
-    box-shadow: rgb(226, 154, 231) 0px 8px 9px 0px;
+    
+    
     //font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .cl1img{
-    height: 70px;
-    margin-left: 10rem;
+    height: 69px;
+    margin-left: 10.5rem;
     margin-top: 29px;
     margin-bottom: auto;
 }
@@ -49,7 +49,7 @@ main {
 
 .paytxt2{
     position: absolute;
-    top: 19.5rem; left: 59px;
+    top: 18rem; left: 59px;
     line-height: 0.9rem;
     font-size: 14px;
 }
@@ -59,10 +59,9 @@ main {
     border-radius: 14px;
     width: 16rem;
     height: 9rem;
-    border-style: outset;
     margin-left: 35px;
     margin-top: 35px;
-    box-shadow: rgb(121, 167, 195) 0px 8px 9px 0px;
+    box-shadow: #080e0e 0px 1px 6px 1px;
     //font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -70,7 +69,7 @@ main {
 
 .paytxt3{
     position: absolute;
-    top: 8.6rem; left:20.9rem;
+    top: 7rem; left:21.2rem;
     line-height: 13px;
     font-size: 14px;
 }
@@ -82,6 +81,7 @@ main {
     height: 9rem;
     margin-left: 19.8rem;
     margin-top: -20.1rem;
+   
     //font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -97,7 +97,7 @@ main {
 
 .paytxt4{
     position: absolute;
-    top: 18.6rem; left: 335px;
+    top: 17rem; left: 340px;
     line-height: 0.9rem;
     font-size: 15px;
 }
@@ -117,7 +117,7 @@ main {
 
 .paytxt5{
     position: absolute;
-    top: 8.5rem; left:38.8rem;
+    top: 6.9rem; left:38.8rem;
     line-height: 13px;
     font-size: 14px;
 }
@@ -135,7 +135,7 @@ main {
 .cl3img{
     height: 70px;
     margin-left: 10.7rem;
-    margin-top: 21px;
+    margin-top: 23px;
     margin-bottom: auto;
 }
 
@@ -143,7 +143,7 @@ main {
 
 .paytxt6{
     position: absolute;
-    top: 17.27rem; left: 620px;
+    top: 15.6rem; left: 620px;
     line-height: 0.9rem;
     font-size: 15px;
     margin-top: 20px;
@@ -163,7 +163,7 @@ main {
 
 .paytxt11{
     position: absolute;
-    top: 7.2rem; left:56rem;
+    top: 7rem; left:56.5rem;
     line-height: 13px;
     font-size: 14px;
 }
@@ -189,7 +189,7 @@ main {
 
 .paytxt12{
     position: absolute;
-    top: 17.1rem; left: 900px;
+    top: 15.5rem; left: 900px;
     line-height: 0.9rem;
     font-size: 15px;
     margin-top: 20px;
