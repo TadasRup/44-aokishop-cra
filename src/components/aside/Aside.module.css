@@ -8,6 +8,9 @@
     
 }
 
+.home{
+    
+}
 
 .marks{
     padding-bottom: 8px;
@@ -27,4 +30,5 @@
     padding-bottom:  25px;
     line-height: 51px;
     vertical-align: text-bottom;
+    font-weight: 550;
 }

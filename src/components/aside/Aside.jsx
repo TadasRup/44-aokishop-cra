@@ -16,8 +16,8 @@ export function Aside() {
         <aside className={style.aside}>
             <nav className={style.nav}>
                 <div className={style.logoname}>
-                    <SlHome className={style.iconlogo} size='1.5rem' color='#aaa' />
-                    <a className={style.active} href="/">Home</a>
+                    <SlHome className={style.iconlogo} size='1.5rem' color='red' />
+                    <a className={style.active}  href="/">Home</a>
                 </div>
                 <div className={style.logoname}>
                     <RiLiveLine className={style.iconlogo} size='1.5rem' color='#aaa' />
