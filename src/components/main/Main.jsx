@@ -11,6 +11,7 @@ export function Main () {
             <div className={style.maintext}>
                 Today's data
             </div>
+        
             <div className={style.maincl1}>
                 <img className={style.cl1img} src={cl1img} alt='Logo' />
             </div>
