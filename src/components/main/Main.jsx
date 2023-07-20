@@ -76,6 +76,9 @@ export function Main () {
                 <h1>5,249</h1>
                 <h5>Yesterday 4680</h5>
             </div>
+            <div className={style.maintextbottom}>
+                Operations Assistant
+            </div>
         </main>
     )
 }
