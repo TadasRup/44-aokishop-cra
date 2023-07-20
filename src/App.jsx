@@ -71,7 +71,7 @@ function App() {
       <Header />
       <Aside />
       <Hero data={data} />
-      <Main data={users} />
+      <Main data={data} />
       <Footer />
       <Helmet bodyAttributes={{style: 'background-color : #f5f5fb'}}/>
     </div>

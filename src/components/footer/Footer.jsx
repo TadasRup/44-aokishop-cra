@@ -1,11 +1,13 @@
 import style from './Footer.module.css';
+import React from "react";
+import GridLayout from "./GridLayout";
 
-export function Footer() {
+const Footer = () => {
     return (
-        <footer className={style.footer}>
-            <div className={style.footertext}>
-                <h4>Operations Asistant</h4>
-            </div>
-        </footer>
-    )
-}
+      <div className={style.grid}>
+        <GridLayout />
+      </div>
+    );
+  };
+
+  export { Footer };
