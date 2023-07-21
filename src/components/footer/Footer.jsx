@@ -2,14 +2,15 @@ import React from "react";
 import GridLayout from "./GridLayout";
 import Footer1 from "../../img/footer1.png";
 import Footer2 from "../../img/footer2.png";
-// Import other item photos and define your items array here.
+
 
 const Footer = () => {
     const items = [
       {
-        //photo: Footer1,
+        //  photo: Footer1,
         section1: "Small telecast live",
         section2: "Live sales in WeChat",
+        
       },
       {
        // photo: Footer2,
@@ -29,7 +30,7 @@ const Footer = () => {
        {
         // photo: Footer5,
          section1: "Store construction",
-         section2: "WCan be customized",
+         section2: "Can be customized",
        },
        {
         // photo: Footer6,
@@ -52,7 +53,7 @@ const Footer = () => {
       <div>
         <GridLayout items={items} />
       </div>
-    );
+    )
   };
 
 export { Footer };

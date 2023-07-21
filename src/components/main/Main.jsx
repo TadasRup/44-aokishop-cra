@@ -3,6 +3,14 @@ import cl1img from '../../img/column1image.png';
 import cl2img from '../../img/column2image.png';
 import cl3img from '../../img/column3image.png';
 import cl5img from '../../img/column5image.png';
+import Photo1 from '../../img/WeChat.png';
+import Photo2 from '../../img/Greenconnect.png';
+import Photo3 from '../../img/Blueconnect.png';
+import Photo4 from '../../img/Coupon.png';
+import Photo5 from '../../img/Marketblue.png';
+import Photo6 from '../../img/Advertisement.png';
+import Photo7 from '../../img/Currencytag.png';
+import Photo8 from '../../img/GreenStats.png';
 
 
 export function Main () {
@@ -79,6 +87,30 @@ export function Main () {
             </div>
             <div className={style.maintextbottom}>
                 Operations Assistant
+            </div>
+            <div>
+            <img className={style.photo1} src={Photo1} alt='Logo' />
+            </div>
+            <div>
+            <img className={style.photo2} src={Photo2} alt='Logo' />
+            </div>
+            <div>
+            <img className={style.photo3} src={Photo3} alt='Logo' />
+            </div>
+            <div>
+            <img className={style.photo4} src={Photo4} alt='Logo' />
+            </div>
+            <div>
+            <img className={style.photo5} src={Photo5} alt='Logo' />
+            </div>
+            <div>
+            <img className={style.photo6} src={Photo6} alt='Logo' />
+            </div>
+            <div>
+            <img className={style.photo7} src={Photo7} alt='Logo' />
+            </div>
+            <div>
+            <img className={style.photo8} src={Photo8} alt='Logo' />
             </div>
         </main>
     )
