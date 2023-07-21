@@ -4,6 +4,10 @@ import logo from '../../img/logo.png';
 import loginhead from '../../img/3135715.png';
 import basiclogo from '../../img/basic2.png';
 import style from './Header.module.css';
+import React from 'react';
+import SearchBox from './SearchBox';
+
+
 
 export function Header() {
     return (
@@ -14,6 +18,7 @@ export function Header() {
                 <RiArrowDownSLine size='1.5rem' color='#aaa' />
                 <img className={style.basiclogo} src={basiclogo} alt='Logo' />
             </div>
+            <div className={SearchBox.n}> <SearchBox /></div>
             <nav className={style.nav}>
                 <a className={style.active} href="/">Notice</a>
                 <a className={style.active} href="/">Help center</a>
@@ -22,6 +27,8 @@ export function Header() {
             <img className={style.logo2} src={loginhead} alt='Loginhead' />
             <RiArrowDownSLine size='1.5rem' color='#aaa' />
             </div>
+            <div>
+    </div>
         </header>
     );
 }

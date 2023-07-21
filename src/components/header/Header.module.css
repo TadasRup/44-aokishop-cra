@@ -3,18 +3,19 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem 3rem;
+    padding: 1.9rem ;
 }
 
 .left {
     display: flex;
     align-items: center;
-    gap: 2rem;
+    gap: 4.3rem;
     width: 40rem;
     height: 30px;
 }
 .logo {
     width: 150px;
+    margin-left: 18px;
 }
 
 .basiclogo {
@@ -32,18 +33,20 @@
 }
 
 .logo2{
-    width: 25px;
+    width: 24px;
 }
 
 .nav {
     display: flex;
     align-items: center;
     gap: 3rem;
-    padding-left: 26rem;
+    padding-left: 12rem;
 }
 .active {
     text-decoration: none;
     color: #3a3a3a;
+    margin-right: 20px;
+  
 }
 .right {
     display: flex;

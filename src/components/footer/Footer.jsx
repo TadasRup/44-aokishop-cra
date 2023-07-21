@@ -1,7 +1,6 @@
 import React from "react";
 import GridLayout from "./GridLayout";
-import Footer1 from "../../img/footer1.png";
-import Footer2 from "../../img/footer2.png";
+
 
 
 const Footer = () => {
