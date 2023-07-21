@@ -21,7 +21,10 @@
     border-radius: 0 4px 4px 0;
     cursor: pointer;
   }
-  
+  .searchbutton:hover{
+    color: pink;
+  }
+
   .search-button:hover {
     background-color: #0056b3;
   }

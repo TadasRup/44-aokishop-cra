@@ -26,6 +26,7 @@ main {
     font-size: 14px;
 }
 
+
 .maincl1 {
     background-color: #ffe9ed;
     border-radius: 14px;
@@ -33,9 +34,7 @@ main {
     height: 9rem;
     margin-left: 35px;
     margin-top: 33px;
-    
-    
-    //font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: box-shadow 0.3s, transform 0.3s;
 }
 
 .cl1img{
@@ -44,6 +43,14 @@ main {
     margin-top: 29px;
     margin-bottom: auto;
 }
+
+.maincl1:hover {
+    box-shadow: #080e0e 0px 1px 6px 1px;
+}
+
+
+
+
 
 /*COULN NUMBER 2*/
 
@@ -63,7 +70,12 @@ main {
     margin-left: 35px;
     margin-top: 35px;
     box-shadow: #080e0e 0px 1px 6px 1px;
+    transition: box-shadow 0.3s, transform 0.3s;
     //font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.maincl2:hover {
+    box-shadow: #080e0e 0px 1px 6px 1px;
 }
 
 /*COLUMN NUMBER 3*/
@@ -82,8 +94,12 @@ main {
     height: 9rem;
     margin-left: 19.8rem;
     margin-top: -20.1rem;
-   
+    transition: box-shadow 0.3s, transform 0.3s;
     //font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.maincl3:hover {
+    box-shadow: #080e0e 0px 1px 6px 1px;
 }
 
 .cl2img{
@@ -92,6 +108,11 @@ main {
     margin-top: 24px;
     margin-bottom: auto;
 }
+.paytxt:hover,
+.maincl1:hover {
+    box-shadow: 0 0 10px 5px #ff97b0; /* Add the glow effect here */
+}
+
 
 /*COLUMN NUMBER 4*/
 
@@ -110,7 +131,12 @@ main {
     height: 9rem;
     margin-left:320px;
     margin-top: 18px;
+    transition: box-shadow 0.3s, transform 0.3s;
     //font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.maincl4:hover {
+    box-shadow: #080e0e 0px 1px 6px 1px;
 }
 
 
@@ -130,7 +156,12 @@ main {
     height: 9rem;
     margin-left: 37.4rem;
     margin-top: -19.1rem;
+    transition: box-shadow 0.3s, transform 0.3s;
     //font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.maincl5:hover {
+    box-shadow: #080e0e 0px 1px 6px 1px;
 }
 
 .cl3img{
@@ -157,7 +188,12 @@ main {
     height: 9rem;
     margin-left:600px;
     margin-top: 18px;
+    transition: box-shadow 0.3s, transform 0.3s;
     //font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.maincl6:hover {
+    box-shadow: #080e0e 0px 1px 6px 1px;
 }
 
 /*COLUMN NUMBER 7*/
@@ -176,7 +212,12 @@ main {
     height: 9rem;
     margin-left: 55rem;
     margin-top: -19.1rem;
+    transition: box-shadow 0.3s, transform 0.3s;
     //font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.maincl7:hover {
+    box-shadow: #080e0e 0px 1px 6px 1px;
 }
 
 .cl5img{
@@ -203,7 +244,12 @@ main {
     height: 9rem;
     margin-left:880px;
     margin-top: 18px;
+    transition: box-shadow 0.3s, transform 0.3s;
     //font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.maincl8:hover {
+    box-shadow: #080e0e 0px 1px 6px 1px;
 }
 
 .maintextbottom{

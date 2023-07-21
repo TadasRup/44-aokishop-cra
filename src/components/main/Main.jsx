@@ -13,17 +13,20 @@ import Photo7 from '../../img/Currencytag.png';
 import Photo8 from '../../img/GreenStats.png';
 
 
+
 export function Main () {
+
+
+    
     return (
         <main className={style.main}>
             <div className={style.maintext}>
                 Today's data
             </div>
-        
             <div className={style.maincl1}>
                 <img className={style.cl1img} src={cl1img} alt='Logo' />
             </div>
-            <div className={style.paytxt}>
+            <div className={style.paytxt} >
                 <h3>Payment amount</h3>
                 <h1>8,992</h1>
                 <h5>Yesterday 8638</h5>
