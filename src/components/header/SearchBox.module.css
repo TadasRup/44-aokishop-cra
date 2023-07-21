@@ -10,6 +10,7 @@
     border: 1px solid #ccc;
     border-radius: 4px 0 0 4px;
     flex: 1;
+    outline: none;
   }
   
   .searchbutton {
@@ -27,6 +28,7 @@
   
   .search-input:focus {
     outline: none;
-    border-color: #007bff;
+    border-color: #a2c5eb;
+    
   }
   
