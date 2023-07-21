@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/44-aokishop-cra/static/css/main.1caa6cc2.css",
+    "main.css": "/44-aokishop-cra/static/css/main.101b42e5.css",
     "main.js": "/44-aokishop-cra/static/js/main.6cd68a90.js",
     "static/media/basic2.png": "/44-aokishop-cra/static/media/basic2.3ead6cb86e1f8b6a6c53.png",
     "static/media/3135715.png": "/44-aokishop-cra/static/media/3135715.5faf09a7795d28bf5a2b.png",
@@ -8,11 +8,11 @@
     "static/media/column5image.png": "/44-aokishop-cra/static/media/column5image.fa880a902cee5d8f9272.png",
     "static/media/logo.png": "/44-aokishop-cra/static/media/logo.d6467f796116257cf3e6.png",
     "index.html": "/44-aokishop-cra/index.html",
-    "main.1caa6cc2.css.map": "/44-aokishop-cra/static/css/main.1caa6cc2.css.map",
+    "main.101b42e5.css.map": "/44-aokishop-cra/static/css/main.101b42e5.css.map",
     "main.6cd68a90.js.map": "/44-aokishop-cra/static/js/main.6cd68a90.js.map"
   },
   "entrypoints": [
-    "static/css/main.1caa6cc2.css",
+    "static/css/main.101b42e5.css",
     "static/js/main.6cd68a90.js"
   ]
 }
